@@ -50,3 +50,6 @@ https://github.com/awslabs/aws-serverless-java-container/pull/220
 
 https://github.com/alibaba/fastjson/pull/2197
 
+10. **MyBatis**
+
+https://github.com/mybatis/mybatis-3/pull/1447
